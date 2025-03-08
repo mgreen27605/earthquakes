@@ -1,14 +1,54 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1741459141000,
+    "generated": 1741459275000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 5
+    "count": 6
   },
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mag": 0.7,
+        "place": "7 km WNW of Cobb, CA",
+        "time": 1741459157210,
+        "updated": 1741459255327,
+        "tz": null,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75145061",
+        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc75145061.geojson",
+        "felt": null,
+        "cdi": null,
+        "mmi": null,
+        "alert": null,
+        "status": "automatic",
+        "tsunami": 0,
+        "sig": 8,
+        "net": "nc",
+        "code": "75145061",
+        "ids": ",nc75145061,",
+        "sources": ",nc,",
+        "types": ",nearby-cities,origin,phase-data,",
+        "nst": 9,
+        "dmin": 0.004257,
+        "rms": 0.01,
+        "gap": 75,
+        "magType": "md",
+        "type": "earthquake",
+        "title": "M 0.7 - 7 km WNW of Cobb, CA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795669555664,
+          38.8375015258789,
+          1.95000004768372
+        ]
+      },
+      "id": "nc75145061"
+    },
     {
       "type": "Feature",
       "properties": {
