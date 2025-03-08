@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1741459275000,
+    "generated": 1741459294000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
     "title": "USGS All Earthquakes, Past Hour",
     "status": 200,
     "api": "1.14.1",
-    "count": 6
+    "count": 5
   },
   "features": [
     {
@@ -208,53 +208,13 @@
         ]
       },
       "id": "hv74629667"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "mag": 2.2,
-        "place": "9 km S of Emajagua, Puerto Rico",
-        "time": 1741455690690,
-        "updated": 1741456385390,
-        "tz": null,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71474848",
-        "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr71474848.geojson",
-        "felt": null,
-        "cdi": null,
-        "mmi": null,
-        "alert": null,
-        "status": "reviewed",
-        "tsunami": 0,
-        "sig": 74,
-        "net": "pr",
-        "code": "71474848",
-        "ids": ",pr71474848,",
-        "sources": ",pr,",
-        "types": ",origin,phase-data,",
-        "nst": 9,
-        "dmin": 0.1641,
-        "rms": 0.09,
-        "gap": 224,
-        "magType": "md",
-        "type": "earthquake",
-        "title": "M 2.2 - 9 km S of Emajagua, Puerto Rico"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.888,
-          17.9145,
-          10.38
-        ]
-      },
-      "id": "pr71474848"
     }
   ],
   "bbox": [
     -154.96699523926,
-    17.9145,
+    19.350666046143,
     1.43,
-    -65.888,
+    -117.7851667,
     60.8081,
     81.7
   ]
